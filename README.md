@@ -63,4 +63,4 @@ Se o browser não abrir automaticamente, acesse: [http://localhost:3000](http://
 ### AGRADECIMENTOS
 **Ecoleta** é um projeto Open Source desenvolvido na Next Level Week - NLW #1 oferecida pela [Rocketseat](https://rocketseat.com.br/), através do instrutor [Mayk Brito](https://github.com/maykbrito).
 
-Feito por [Tiago Almeida](https://github.com/tiagodalmeida87) 🧑‍🎓
+Feito por [Tiago Almeida](https://github.com/tiagodalmeida87) 🧑‍💻
